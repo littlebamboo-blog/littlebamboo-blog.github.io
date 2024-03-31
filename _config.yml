@@ -106,4 +106,5 @@ theme: stellar
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/littlebamboo-blog/littlebamboo-blog.github.io.git #https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io

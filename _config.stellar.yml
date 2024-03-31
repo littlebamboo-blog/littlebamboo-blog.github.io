@@ -44,6 +44,7 @@ site_tree:
 
 article:
   share: [wechat, weibo, email, link]
+  auto_cover: true
 
 
 style:
@@ -59,5 +60,3 @@ style:
     code: '"LXGW WenKai Screen", Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
     codeblock: 'Menlo, Monaco, Consolas, system-ui, "Courier New", monospace, sans-serif'
 
-article:
-  auto_cover: true
